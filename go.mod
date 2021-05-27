@@ -1,1 +1,1 @@
-module "envUnmarshal-go"
+module "github.com/woohaha/envUnmarshal-go"
